@@ -1,0 +1,21 @@
+{
+  "name": "ran-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dethMastery/ranString.git"
+  },
+  "author": "detzz <me@suphakit.net>",
+  "license": "MIT",
+  "dependencies": {
+    "yargonaut": "^1.1.4",
+    "yargs": "^17.2.1"
+  },
+  "bin": {
+    "randString": "./bin/cli.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/cli.js"
+  }
+}
