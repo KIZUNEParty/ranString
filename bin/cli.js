@@ -1,4 +1,12 @@
 #!/usr/bin/env node
+
+require("yargonaut")
+  .style('blue')
+  .style('yellow', 'required')
+  .help('Cybermedium')
+  .helpStyle('green')
+  .errorsStyle('red.bold.underline')
+
 let yargs = require('yargs/yargs')
 let rand = require('./index')
 
