@@ -1,7 +1,7 @@
 {
   "name": "ran-string",
-  "version": "1.0.0e",
-  "main": "/bin/index.js",
+  "version": "1.0.0f",
+  "main": "./bin/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/dethMastery/ranString.git"
