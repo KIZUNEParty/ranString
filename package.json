@@ -1,6 +1,6 @@
 {
   "name": "ran-string",
-  "version": "1.0.0f",
+  "version": "1.0.1",
   "main": "./bin/index.js",
   "repository": {
     "type": "git",
